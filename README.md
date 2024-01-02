@@ -3,8 +3,9 @@ This is a project of our favorite Dim Sum recipes.
 
 ## Recipes
 
-[Buns](./Buns/recipe.md)
-* [Video](https://www.bilibili.com/video/BV1zC4y1A7LQ/?spm_id_from=333.999.0.0&vd_source=4838898a071fbf1c0e1abc180bd96552)
+[Buns](./Buns/Steamed%2dBun/Recipe.md)
+* [Steamed Bun Video](https://www.bilibili.com/video/BV1zC4y1A7LQ/?spm_id_from=333.999.0.0&vd_source=4838898a071fbf1c0e1abc180bd96552)
+* [Pineapple Bun Video](https://www.bilibili.com/video/BV1kN4y1W7jJ/)
 
 # Contribution
 If you have a fantasy DimSum recipe and are generous to share with other people,
